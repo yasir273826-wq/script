@@ -1,0 +1,5 @@
+{
+  "name": "AI Script Breakdown Generator",
+  "description": "An application that takes a video script and uses AI to generate a detailed scene-by-scene breakdown in JSON format, including prompts for images, motion, and voiceovers.",
+  "requestFramePermissions": []
+}
